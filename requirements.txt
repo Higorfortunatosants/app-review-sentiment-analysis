@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+transformers
+torch
+huggingface_hub
+google-play-scraper
+matplotlib
+seaborn
+jupyter
